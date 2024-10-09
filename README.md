@@ -1,1 +1,2 @@
-# 2021a1l013_SimranRaina_COM511
+# AI/ML PROJECTS- JUPYTER NOTEBOOK LEARNINGS
+Libraries Used: **Numpy, Pandas, Matplotlib, Beautiful Soup**
